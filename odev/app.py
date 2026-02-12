@@ -16,7 +16,7 @@ st.title("Benim Sayfam")
 # KODU BURAYA YAZIN
 
 # with col1:
-    # GÖREV 3: 'img/profil.png' dosyasını kullanarak profil fotoğrafınızı ekleyin.
+    # GÖREV 3: 'M5L2/img/profil.png' dosyasını kullanarak profil fotoğrafınızı ekleyin.
     # KODU BURAYA YAZIN
     # st.image(...)
 
